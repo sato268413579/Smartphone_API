@@ -14,7 +14,7 @@ namespace Smartphone_API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "今日は良い天気ですね", "そうですね" };
         }
 
         // GET api/values/5
