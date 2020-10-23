@@ -1,0 +1,14 @@
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\bin\Debug\netcoreapp2.1\Smartphone_API.deps.json
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\bin\Debug\netcoreapp2.1\Smartphone_API.runtimeconfig.json
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\bin\Debug\netcoreapp2.1\Smartphone_API.runtimeconfig.dev.json
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\bin\Debug\netcoreapp2.1\Smartphone_API.dll
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\bin\Debug\netcoreapp2.1\Smartphone_API.pdb
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.csprojAssemblyReference.cache
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.csproj.CoreCompileInputs.cache
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.RazorAssemblyInfo.cache
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.RazorAssemblyInfo.cs
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.AssemblyInfoInputs.cache
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.AssemblyInfo.cs
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.RazorTargetAssemblyInfo.cache
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.dll
+C:\Users\佐藤和磨\source\repos\Smartphone_API\Smartphone_API\obj\Debug\netcoreapp2.1\Smartphone_API.pdb
