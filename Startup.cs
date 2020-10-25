@@ -39,7 +39,7 @@ namespace Smartphone_API
             {
                 app.UseHsts();
             }
-
+            
             app.UseHttpsRedirection();
             app.UseMvc();
         }
