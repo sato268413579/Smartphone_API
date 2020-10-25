@@ -11,7 +11,7 @@ namespace Smartphone_API.Controllers
     public class CalcRegistController : Controller
     {
         [HttpPost]
-        public ActionResult<IEnumerable<int>> CalcResultRegister([FromBody]string strCalcResult)
+        public ActionResult<IEnumerable<int>> CalcResultRegister([FromBody]string strCalcResult, string test)
         {
             int calcResult = int.Parse(strCalcResult);
 
