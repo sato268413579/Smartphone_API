@@ -23,6 +23,10 @@ namespace Smartphone_API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<int>> Index()
         {
+            DB_houseCalc dbHouseCalc = new DB_houseCalc();
+            dbHouseCalc.InsResultCalc();
+
+
             return new int[] { 0 };
         }
     }
