@@ -10,10 +10,10 @@ namespace Smartphone_API
     public class DbConnection
     {
         private readonly string server = "127.0.0.1";
-        private readonly string port = "3306";
+        private readonly string port = "51830";
         private readonly string database = "houseCalcdb";
-        private readonly string id = "azure";
-        private readonly string password = "";
+        private readonly string id = "root";
+        private readonly string password = "password";
 
         string ConnectionString = "";
 

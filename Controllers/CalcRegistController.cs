@@ -27,6 +27,7 @@ namespace Smartphone_API.Controllers
             dbHouseCalc.InsResultCalc();
 
 
+
             return new int[] { 0 };
         }
     }
